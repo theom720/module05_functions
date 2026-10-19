@@ -16,7 +16,7 @@ How I fixed it: I corrected "amout" to "amount" and removed the debug print.
 Error type: TypeError  
 File + line: week8_buggy.py, line 18  
 What the error means: Python cannot compare an integer and a string using `>`.  
-How I fixed it: ___
+How I fixed it: I changed "1000" from a string to the integer 1000.
 
 ## After Fixing Both Bugs
 

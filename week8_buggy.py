@@ -15,7 +15,7 @@ def get_total(records):
 
 
 def is_over_limit(amount):
-    return amount > "1000"
+    return amount > 1000
 
 
 def format_summary(total, count):
