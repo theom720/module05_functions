@@ -13,9 +13,9 @@ How I fixed it: I corrected "amout" to "amount" and removed the debug print.
 
 ## Bug 2
 
-Error type: ___  
-File + line: ___  
-What the error means: ___  
+Error type: TypeError  
+File + line: week8_buggy.py, line 18  
+What the error means: Python cannot compare an integer and a string using `>`.  
 How I fixed it: ___
 
 ## After Fixing Both Bugs
