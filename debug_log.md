@@ -4,13 +4,11 @@
 
 ## Bug 1
 
-## Bug 1
-
 Error type: KeyError: 'amount'  
 File + line: week8_buggy.py, line 13  
 What the error means: One record does not have an "amount" key.  
 What I told the duck: The loop checks each record and adds its amount to the total.  
-What I tried: ___  
+What I tried: I printed each record and saw that the first record used "amout" instead of "amount".  
 How I fixed it: ___
 
 ## Bug 2

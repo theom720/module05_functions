@@ -10,6 +10,7 @@ records = [
 def get_total(records):
     total = 0
     for rec in records:
+        print(f"DEBUG: rec = {rec}")
         total += rec["amount"]
     return total
 
