@@ -20,8 +20,8 @@ How I fixed it: I changed "1000" from a string to the integer 1000.
 
 ## After Fixing Both Bugs
 
-Final output: ___  
-Did pytest pass? Yes / No
+Final output: Total: $5150.00 across 3 records, followed by True  
+Did pytest pass? Yes — 5 passed
 
 ## AI Literacy Reflection
 
