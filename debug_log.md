@@ -26,11 +26,11 @@ Did pytest pass? Yes — 13 passed
 ## AI Literacy Reflection
 
 Did I use AI? Yes  
-If yes -- exact prompt I used: "Help me do the lab."  
-What AI explained: ___  
-What I changed myself: ___  
-Can I explain every fixed line? Yes / No
+If yes -- exact prompt I used: "help me do the lab"  
+What AI explained: AI explained the traceback errors and guided me through each checkpoint.  
+What I changed myself: I edited the code, removed the debug print, ran Ruff and pytest, and committed each step.  
+Can I explain every fixed line? Yes
 
 ## What I learned
 
-[2–3 sentences]
+I learned to read tracebacks from the bottom and use `print()` to inspect data. I also learned that dictionary keys must match exactly and that Python cannot compare an integer with a string.
