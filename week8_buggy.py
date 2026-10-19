@@ -1,7 +1,7 @@
 # week8_buggy.py -- three bugs -- do not fix yet
 
 records = [
-    {"id": 1, "name": "Taylor", "amout": 1200},
+    {"id": 1, "name": "Taylor", "amount": 1200},
     {"id": 2, "name": "Jordan", "amount": 450},
     {"id": 3, "name": "Morgan", "amount": 3500},
 ]
@@ -10,7 +10,6 @@ records = [
 def get_total(records):
     total = 0
     for rec in records:
-        print(f"DEBUG: rec = {rec}")
         total += rec["amount"]
     return total
 

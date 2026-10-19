@@ -9,7 +9,7 @@ File + line: week8_buggy.py, line 13
 What the error means: One record does not have an "amount" key.  
 What I told the duck: The loop checks each record and adds its amount to the total.  
 What I tried: I printed each record and saw that the first record used "amout" instead of "amount".  
-How I fixed it: ___
+How I fixed it: I corrected "amout" to "amount" and removed the debug print.
 
 ## Bug 2
 
